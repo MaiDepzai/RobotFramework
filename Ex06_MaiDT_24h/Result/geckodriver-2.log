@@ -1,0 +1,6 @@
+1606963947101	geckodriver	INFO	Listening on 127.0.0.1:10005
+1606963950157	mozprofile::profile	INFO	Using profile path C:\Users\PC\AppData\Local\Temp\rust_mozprofile.VJ0sKhBrfAgi
+1606963950163	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1606963950170	geckodriver::marionette	INFO	Connecting to Marionette on localhost:10015
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
